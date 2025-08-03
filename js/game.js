@@ -4419,10 +4419,12 @@ window.addEventListener("load", function () {
         var v427 = vF.$b.from("https://i.imgur.com/EDt862t.png");
         var v428 = vF.$b.from("https://i.imgur.com/U5sTlhC.png");
         var v429 = vF.$b.from("https://i.imgur.com/ub4ed3R.png");
-        var v430 = vF.$b.from("https://i.imgur.com/LFiCido.png");
-        this.X_x5 = new vF32(v430, 156, 80, 87, 60, 170, 1.5, 128, 128);
-        this.X_x10 = new vF32(v430, 158, 200, 95, 55, 265, 128.5, 128, 128);
-        this.X_xxlupa = new vF32(v430, 79, 8, 75, 77, 265, 1.5, 128, 128);
+        var v430 = vF.$b.from("https://i.imgur.com/LvJ1RxC.png");
+        this.X_x5 = new vF32(v430, 0x9c, 0x4, 0x57, 0x4a, 0x11d, 63.5, 0x80, 0x80);
+        this.X_x10 = new vF32(v430, 0x9c, 0x50, 0x57, 0x3c, 0xaa, 1.5, 0x80, 0x80);
+        this.X_xxlupa = new vF32(v430, 0x9c, 0x8c, 0x57, 0x3c, 0xaa, 128.5, 0x80, 0x80);
+        this.X_xxxlupa = new vF32(v430, 0x9e, 0xc8, 0x5f, 0x37, 0x109, 128.5, 0x80, 0x80);
+        this.X_xxxlupaa = new vF32(v430, 0x4f, 0x8, 0x4b, 0x4d, 0x109, 1.5, 0x80, 0x80);
         this.Id_mobileguia = new vF32(v429, 0, 0, 87, 74, 350, 63, 128, 128);
         this.emoji_headshot = new vF32(
           v427,
@@ -9842,24 +9844,5 @@ window.addEventListener("keydown", (p670) => {
     }
   }
 });
-// تحديد الوقت الحالي لضمان تحديث الروابط ومنع التخزين المؤقت (caching)
-const TIME = new Date().getTime();
-const linkCSS = "https://foghunter06.github.io/exetnsion/css/style.css?v=" + TIME;
-
-// دالة لتحميل الأنماط (stylesheets) بشكل ديناميكي
-// ترجع Promise يكتمل عند تحميل الملف أو يرفض في حالة الفشل
-function loadStylesheet(url) {
-  return new Promise((resolve, reject) => {
-    const linkElement = document.createElement("link");
-    linkElement.rel = "stylesheet";
-    linkElement.type = "text/css";
-    linkElement.href = url;
-    linkElement.onload = resolve;
-    // تسجيل الخطأ في وحدة التحكم ورفض الـ Promise في حالة الفشل
-    linkElement.onerror = () => {
-      console.error(`خطأ: فشل تحميل ملف الأنماط من المسار: ${url}`);
-      reject(new Error(`فشل تحميل ملف الأنماط: ${url}`));
-    };
-    document.head.appendChild(linkElement);
-  });
-}
+var TIME = new Date().getTime();
+var linkCSS = "https://foghunter06.github.io/exetnsion/css/style.css?v=" + TIME;
