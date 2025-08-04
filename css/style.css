@@ -5103,3 +5103,56 @@ input[type="color"]::-moz-color-swatch {
     top: -50px;
 }
 
+  #optionSelect {
+    outline: none;
+    border: 2px solid #444;
+    border-radius: 1px;
+    background-color: #252535;
+    height: 30px;
+    text-shadow: 0 0 0 #999999;
+    font-family: "Palanquin Dark", serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    user-select: none;
+    transition: all 0.4s;
+  }
+  #numberInput {
+    outline: none;
+    border: 2px solid #444;
+    border-radius: 1px;
+    background-color: #252535;
+    height: 25px;
+    text-shadow: 0 0 0 #999999;
+    font-family: "Palanquin Dark", serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    user-select: none;
+    transition: all 0.4s;
+  }
+  #connectButton{
+    outline: none;
+    border: 2px solid #444;
+    border-radius: 1px;
+    background-color: #252535;
+    height: 30px;
+    text-shadow: 0 0 0 #999999;
+    font-family: "Palanquin Dark", serif;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    user-select: none;
+    transition: all 0.4s;
+  }
+  #connectButton:hover {
+    border: 2px solid #fff;
+    background-color: #252565;
+  }
+
