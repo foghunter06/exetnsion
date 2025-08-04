@@ -1383,6 +1383,19 @@ body {display:block !important;}
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text:nth-child(n+2) {display:none;}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text * {font-size:12px;}
+
+.title-wormate-foghunter-flag {
+    color: #ff0000;
+    background-color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px !important;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.2);
+    text-align: center;
+    text-shadow: 0 0 1px #fff;
+}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text h1,
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text h2,
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text ul,

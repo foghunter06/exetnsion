@@ -18080,6 +18080,697 @@
             ]
         },
         {
+            "id": 131555,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_01_8",
+                "25ypg_01_7",
+                "25ypg_01_6",
+                "25ypg_01_5",
+                "25ypg_01_4",
+                "25ypg_01_3",
+                "25ypg_01_2",
+                "25ypg_01_1",
+                "25ypg_01_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_azure",
+                "a_white",
+                "a_azure",
+                "a_white",
+                "a_azure",
+                "a_white",
+                "a_azure",
+                "a_white"
+            ]
+        },
+        {
+            "id": 108,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_02_8",
+                "25ypg_02_7",
+                "25ypg_02_6",
+                "25ypg_02_5",
+                "25ypg_02_4",
+                "25ypg_02_3",
+                "25ypg_02_2",
+                "25ypg_02_1",
+                "25ypg_02_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 109,
+            "type": 0,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_03_8",
+                "25ypg_03_7",
+                "25ypg_03_6",
+                "25ypg_03_5",
+                "25ypg_03_4",
+                "25ypg_03_3",
+                "25ypg_03_2",
+                "25ypg_03_1",
+                "25ypg_03_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 114,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_04_8",
+                "25ypg_04_7",
+                "25ypg_04_6",
+                "25ypg_04_5",
+                "25ypg_04_4",
+                "25ypg_04_3",
+                "25ypg_04_2",
+                "25ypg_04_1",
+                "25ypg_04_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 102,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_05_8",
+                "25ypg_05_7",
+                "25ypg_05_6",
+                "25ypg_05_5",
+                "25ypg_05_4",
+                "25ypg_05_3",
+                "25ypg_05_2",
+                "25ypg_05_1",
+                "25ypg_05_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 58,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_06_8",
+                "25ypg_06_7",
+                "25ypg_06_6",
+                "25ypg_06_5",
+                "25ypg_06_4",
+                "25ypg_06_3",
+                "25ypg_06_2",
+                "25ypg_06_1",
+                "25ypg_06_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 77,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_07_8",
+                "25ypg_07_7",
+                "25ypg_07_6",
+                "25ypg_07_5",
+                "25ypg_07_4",
+                "25ypg_07_3",
+                "25ypg_07_2",
+                "25ypg_07_1",
+                "25ypg_07_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 99,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_08_8",
+                "25ypg_08_7",
+                "25ypg_08_6",
+                "25ypg_08_5",
+                "25ypg_08_4",
+                "25ypg_08_3",
+                "25ypg_08_2",
+                "25ypg_08_1",
+                "25ypg_08_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 307,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_09_8",
+                "25ypg_09_7",
+                "25ypg_09_6",
+                "25ypg_09_5",
+                "25ypg_09_4",
+                "25ypg_09_3",
+                "25ypg_09_2",
+                "25ypg_09_1",
+                "25ypg_09_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 2479,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_10_8",
+                "25ypg_10_7",
+                "25ypg_10_6",
+                "25ypg_10_5",
+                "25ypg_10_4",
+                "25ypg_10_3",
+                "25ypg_10_2",
+                "25ypg_10_1",
+                "25ypg_10_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 308,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_11_8",
+                "25ypg_11_7",
+                "25ypg_11_6",
+                "25ypg_11_5",
+                "25ypg_11_4",
+                "25ypg_11_3",
+                "25ypg_11_2",
+                "25ypg_11_1",
+                "25ypg_11_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 87,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c_white",
+            "base": [
+                "Turkish_12_8",
+                "Turkish_12_7",
+                "Turkish_12_6",
+                "Turkish_12_5",
+                "Turkish_12_4",
+                "Turkish_12_3",
+                "Turkish_12_2",
+                "Turkish_12_1",
+                "Turkish_12_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a__ruby",
+                "a__ruby",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 153,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_13_8",
+                "25ypg_13_7",
+                "25ypg_13_6",
+                "25ypg_13_5",
+                "25ypg_13_4",
+                "25ypg_13_3",
+                "25ypg_13_2",
+                "25ypg_13_1",
+                "25ypg_13_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_death",
+                "a_white",
+                "a__ruby",
+                "a__emer",
+                "a__emer",
+                "a__ruby",
+                "a_white",
+                "a_death"
+            ]
+        },
+        {
+            "id": 136,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_14_8",
+                "25ypg_14_7",
+                "25ypg_14_6",
+                "25ypg_14_5",
+                "25ypg_14_4",
+                "25ypg_14_3",
+                "25ypg_14_2",
+                "25ypg_14_1",
+                "25ypg_14_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 67,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_15_8",
+                "25ypg_15_7",
+                "25ypg_15_6",
+                "25ypg_15_5",
+                "25ypg_15_4",
+                "25ypg_15_3",
+                "25ypg_15_2",
+                "25ypg_15_1",
+                "25ypg_15_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 133,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_16_8",
+                "25ypg_16_7",
+                "25ypg_16_6",
+                "25ypg_16_5",
+                "25ypg_16_4",
+                "25ypg_16_3",
+                "25ypg_16_2",
+                "25ypg_16_1",
+                "25ypg_16_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 155,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_17_8",
+                "25ypg_17_7",
+                "25ypg_17_6",
+                "25ypg_17_5",
+                "25ypg_17_4",
+                "25ypg_17_3",
+                "25ypg_17_2",
+                "25ypg_17_1",
+                "25ypg_17_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 2487,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_18_8",
+                "25ypg_18_7",
+                "25ypg_18_6",
+                "25ypg_18_5",
+                "25ypg_18_4",
+                "25ypg_18_3",
+                "25ypg_18_2",
+                "25ypg_18_1",
+                "25ypg_18_0"
+            ],
+            "glow": [
+                "a__ruby",
+                "a_white",
+                "a__ruby",
+                "a_white",
+                "a__ruby",
+                "a_white",
+                "a__ruby",
+                "a_white",
+                "a__ruby"
+            ]
+        },
+        {
+            "id": 2488,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_19_8",
+                "25ypg_19_7",
+                "25ypg_19_6",
+                "25ypg_19_5",
+                "25ypg_19_4",
+                "25ypg_19_3",
+                "25ypg_19_2",
+                "25ypg_19_1",
+                "25ypg_19_0"
+            ],
+            "glow": [
+                "a__yllw",
+                "a_death",
+                "a__yllw",
+                "a_death",
+                "a__yllw",
+                "a_death",
+                "a__yllw",
+                "a_death",
+                "a_death"
+            ]
+        },
+        {
+            "id": 2489,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_20_8",
+                "25ypg_20_7",
+                "25ypg_20_6",
+                "25ypg_20_5",
+                "25ypg_20_4",
+                "25ypg_20_3",
+                "25ypg_20_2",
+                "25ypg_20_1",
+                "25ypg_20_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 2490,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_21_8",
+                "25ypg_21_7",
+                "25ypg_21_6",
+                "25ypg_21_5",
+                "25ypg_21_4",
+                "25ypg_21_3",
+                "25ypg_21_2",
+                "25ypg_21_1",
+                "25ypg_21_0"
+            ],
+            "glow": [
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw"
+            ]
+        },
+        {
+            "id": 2491,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_22_8",
+                "25ypg_22_7",
+                "25ypg_22_6",
+                "25ypg_22_5",
+                "25ypg_22_4",
+                "25ypg_22_3",
+                "25ypg_22_2",
+                "25ypg_22_1",
+                "25ypg_22_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
+            "id": 2492,
+            "guest": false,
+            "nonbuyable": false,
+            "price": 0,
+            "priceBefore": 0,
+            "prime": "c__yllw",
+            "base": [
+                "25ypg_23_8",
+                "25ypg_23_7",
+                "25ypg_23_6",
+                "25ypg_23_5",
+                "25ypg_23_4",
+                "25ypg_23_3",
+                "25ypg_23_2",
+                "25ypg_23_1",
+                "25ypg_23_0"
+            ],
+            "glow": [
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white",
+                "a_white"
+            ]
+        },
+        {
             "id": 2830,
             "guest": false,
             "nonbuyable": false,
@@ -28544,6 +29235,98 @@
             "custom": true,
             "relativePath": "https:\/\/i.imgur.com\/OnKTGpz.png"
         },
+        "25ypg_01": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/frhatUa.png"
+        },
+        "25ypg_02": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/nzuEGjI.png"
+        },
+        "25ypg_03": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/5kobytx.png"
+        },
+        "25ypg_04": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/sbzCjp6.png"
+        },
+        "25ypg_05": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/oAcKr2L.png"
+        },
+        "25ypg_06": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/MYIwlmA.png"
+        },
+        "25ypg_07": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/RrFfwnE.png"
+        },
+        "25ypg_08": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/SWmJVZe.png"
+        },
+        "25ypg_09": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/2Sv4v71.png"
+        },
+        "25ypg_10": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/ouG9pnt.png"
+        },
+        "25ypg_11": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/EmU4nro.png"
+        },
+        "Turkish_12": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/E0BDDon.png"
+        },
+        "25ypg_13": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/usqxvlS.png"
+        },
+        "25ypg_14": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/CCSBIv8.png"
+        },
+        "25ypg_15": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/dp9BnPc.png"
+        },
+        "25ypg_16": {
+            "custom": true,
+            "relativePath": "https:\/\/lh3.googleusercontent.com\/d\/17HCr3QA0GLLotPb6j0zjrTCcgsESramD"
+        },
+        "25ypg_17": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/Wy65fSE.png"
+        },
+        "25ypg_18": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/WaXPIZQ.png"
+        },
+        "25ypg_19": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/OFJyzWt.png"
+        },
+        "25ypg_20": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/HKG9CDi.png"
+        },
+        "25ypg_21": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/jIxFJUE.png"
+        },
+        "25ypg_22": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/A3w96uj.png"
+        },
+        "25ypg_23": {
+            "custom": true,
+            "relativePath": "https:\/\/i.imgur.com\/JR7NIxD.png"
+        },
         "ninawa_01": {
             "custom": true,
             "relativePath": "https:\/\/lh3.googleusercontent.com\/d\/1sLBXFGOacMcLY6ZYgS297DvT6lWY7ULe"
@@ -30892,6 +31675,1392 @@
         "c_a_tm2_B": "18d2f2"
     },
     "regionDict": {
+        "25ypg_01_0": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_01_1": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_01_2": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_01_3": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_01_4": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_01_5": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_01_6": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_01_7": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_01_8": {
+            "texture": "25ypg_01",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_02_0": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_02_1": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_02_2": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_02_3": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_02_4": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_02_5": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_02_6": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_02_7": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_02_8": {
+            "texture": "25ypg_02",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_03_0": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_03_1": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_03_2": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_03_3": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_03_4": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_03_5": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_03_6": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_03_7": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_03_8": {
+            "texture": "25ypg_03",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_04_0": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_04_1": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_04_2": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_04_3": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_04_4": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_04_5": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_04_6": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_04_7": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_04_8": {
+            "texture": "25ypg_04",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_05_0": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_05_1": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_05_2": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_05_3": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_05_4": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_05_5": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_05_6": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_05_7": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_05_8": {
+            "texture": "25ypg_05",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_06_0": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_06_1": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_06_2": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_06_3": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_06_4": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_06_5": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_06_6": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_06_7": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_06_8": {
+            "texture": "25ypg_06",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_07_0": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_07_1": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_07_2": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_07_3": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_07_4": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_07_5": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_07_6": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_07_7": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_07_8": {
+            "texture": "25ypg_07",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_08_0": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_08_1": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_08_2": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_08_3": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_08_4": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_08_5": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_08_6": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_08_7": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_08_8": {
+            "texture": "25ypg_08",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_09_0": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_09_1": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_09_2": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_09_3": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_09_4": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_09_5": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_09_6": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_09_7": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_09_8": {
+            "texture": "25ypg_09",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_10_0": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_10_1": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_10_2": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_10_3": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_10_4": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_10_5": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_10_6": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_10_7": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_10_8": {
+            "texture": "25ypg_10",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_11_0": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_11_1": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_11_2": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_11_3": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_11_4": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_11_5": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_11_6": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_11_7": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_11_8": {
+            "texture": "25ypg_11",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_13_0": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_13_1": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_13_2": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_13_3": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_13_4": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_13_5": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_13_6": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_13_7": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_13_8": {
+            "texture": "25ypg_13",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_14_0": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_14_1": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_14_2": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_14_3": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_14_4": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_14_5": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_14_6": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_14_7": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_14_8": {
+            "texture": "25ypg_14",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_15_0": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_15_1": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_15_2": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_15_3": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_15_4": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_15_5": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_15_6": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_15_7": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_15_8": {
+            "texture": "25ypg_15",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_16_0": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_16_1": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_16_2": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_16_3": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_16_4": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_16_5": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_16_6": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_16_7": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_16_8": {
+            "texture": "25ypg_16",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_17_0": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_17_1": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_17_2": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_17_3": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_17_4": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_17_5": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_17_6": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_17_7": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_17_8": {
+            "texture": "25ypg_17",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_18_0": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_18_1": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_18_2": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_18_3": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_18_4": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_18_5": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_18_6": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_18_7": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_18_8": {
+            "texture": "25ypg_18",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_19_0": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_19_1": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_19_2": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_19_3": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_19_4": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_19_5": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_19_6": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_19_7": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_19_8": {
+            "texture": "25ypg_19",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_20_0": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_20_1": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_20_2": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_20_3": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_20_4": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_20_5": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_20_6": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_20_7": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_20_8": {
+            "texture": "25ypg_20",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_21_0": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_21_1": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_21_2": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_21_3": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_21_4": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_21_5": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_21_6": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_21_7": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_21_8": {
+            "texture": "25ypg_21",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_22_0": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_22_1": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_22_2": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_22_3": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_22_4": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_22_5": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_22_6": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_22_7": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_22_8": {
+            "texture": "25ypg_22",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
+        "25ypg_23_0": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 0,
+            "y": 0
+        },
+        "25ypg_23_1": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 175,
+            "y": 0
+        },
+        "25ypg_23_2": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 350,
+            "y": 0
+        },
+        "25ypg_23_3": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 525,
+            "y": 0
+        },
+        "25ypg_23_4": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 700,
+            "y": 0
+        },
+        "25ypg_23_5": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 875,
+            "y": 0
+        },
+        "25ypg_23_6": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 1050,
+            "y": 0
+        },
+        "25ypg_23_7": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 1225,
+            "y": 0
+        },
+        "25ypg_23_8": {
+            "texture": "25ypg_23",
+            "h": 170,
+            "w": 170,
+            "x": 1400,
+            "y": 0
+        },
         "101gaming_01_0": {
             "texture": "101gaming_01",
             "h": 170,
