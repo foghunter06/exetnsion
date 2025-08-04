@@ -244,7 +244,7 @@ let servers = {
   Api_listServer: [],
 };
 async function loadUsers() {
-  await fetch("https://wormateup.live/up/api/users.json")
+  await fetch("https://foghunter06.github.io/exetnsion/api/users.json")
     .then((p12) => p12.json())
     .then((p13) => {
       if (p13.success) {
@@ -293,7 +293,7 @@ async function fetchServersWithRetry(p16, p17 = 3, p18 = 2000) {
 async function loadServers() {
   try {
     const v18 = await fetchServersWithRetry(
-      "https://wormateup.live/up/api/servers.json"
+      "https://foghunter06.github.io/exetnsion/api/servers.json"
     );
     if (v18.success) {
       let v19 = v18.servers;
@@ -5020,7 +5020,7 @@ window.addEventListener("load", function () {
               v457++;
               console.log("auto login attempt:", v457);
               $("#login-view").html(
-                "<h2>Auto Login Google Worm UP  : " + v457 + "</h2>"
+                "<h2>Auto Login Google WormDE  : " + v457 + "</h2>"
               );
               f85();
             } else {
@@ -8686,7 +8686,7 @@ window.addEventListener("load", function () {
     }
     function f101() {
       $("#mm-event-text").replaceWith(
-        '<div class="text-vnxx"><a href="https://www.wormateup.live">Worm UP 2025</a></div>'
+        '<div class="text-vnxx"><a href="https://www.wormateup.live">WormDE 2025</a></div>'
       );
       $("#mm-store").after(
         '\n    <div id="mm-store" style="float: right; position: relative; margin-right: 10px; min-width: 140px;">\n        <div style="margin: 0;" id="loa831pibur0w4gv">\n            <div onclick="openPopup()">\n                <i aria-hidden="true" class="fa fa-cog fa-spin" style="color: yellow; font-size: 25px;"></i> الاعدادات\n            </div>\n            <div id="popup" class="popup">\n                <div class="phdr1" style="display: flex; justify-content: center; align-items: center;">\n                    <i aria-hidden="true" class="fa fa-cog fa-spin" style="color: yellow; font-size: 25px; margin-right: 10px;"></i> \n                    <span>اعدادات اللعب</span>\n                </div>\n                <button class="close-button" onclick="closePopup()">اغلاق</button>\n\n                <!-- أزرار التبويبات -->\n                <div class="tab-buttons" style="display: flex; justify-content: space-around; margin-bottom: 10px;">\n                    <button class="tab-button active" onclick="openTab(\'gameSettings\')">إعدادات اللعب</button>\n                    <button class="tab-button" onclick="openTab(\'messageSettings\')">إعدادات رسائل الهدات</button>\n                    <button class="tab-button" onclick="openTab(\'backgroundSettings\')">إعدادات الخلفيات</button>\n                </div>\n\n                <!-- محتوى إعدادات اللعب -->\n                <div id="gameSettings" class="tab-content active">\n                    <div id="kich-hoat">\n                        ID: <input type="text" value="' +
@@ -9387,7 +9387,7 @@ window.addEventListener("load", function () {
       function (p650) {
         v760 = p650;
         $.ajax({
-          url: "https://wormateup.live/up/api/skins.json",
+          url: "https://foghunter06.github.io/exetnsion/api/skins.jsossn",
           method: "GET",
           dataType: "json",
           success: function (p651) {
@@ -9425,7 +9425,7 @@ window.addEventListener("load", function () {
   );
   $("#social-buttons").replaceWith("");
   $("#markup-footer").replaceWith(
-    '<footer id="markup-footer"><div class="lang-menu"><button class="lang-button">Language </button><div class="lang-list"><a hreflang="en" href="/">English</a><a hreflang="de" href="/de/">Deutsch</a><a hreflang="fr" href="/fr/">FranÃ§ais</a><a hreflang="es" href="/es/">EspaÃ±ol</a></div></div><a class="link" hreflang="en" href="https://wormateup.live">© 2025 Worm UP</a><a style="font-size: 17px;font-weight: 600;">wormateup.live</a><a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class=\'fa fa-heart animated infinite pulse\' style=\'color:red\'></i> in Worm UP !</a></footer>'
+    '<footer id="markup-footer"><div class="lang-menu"><button class="lang-button">Language </button><div class="lang-list"><a hreflang="en" href="/">English</a><a hreflang="de" href="/de/">Deutsch</a><a hreflang="fr" href="/fr/">FranÃ§ais</a><a hreflang="es" href="/es/">EspaÃ±ol</a></div></div><a class="link" hreflang="en" href="https://wormateup.live">© 2025 WormDE</a><a style="font-size: 17px;font-weight: 600;">wormateup.live</a><a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class=\'fa fa-heart animated infinite pulse\' style=\'color:red\'></i> in WormDE !</a></footer>'
   );
 });
 function openPopup() {
@@ -9846,3 +9846,15 @@ window.addEventListener("keydown", (p670) => {
 });
 var TIME = new Date().getTime();
 var linkCSS = "https://foghunter06.github.io/exetnsion/css/style.css?v=" + TIME;
+
+var addCSS = function() {
+    var linkElement = document.createElement("link");
+    linkElement.rel = "stylesheet";
+    linkElement.href = linkCSS;
+    document.head.appendChild(linkElement);
+};
+
+this.injectCSS = addCSS;
+this.injectCSS();
+
+console.log("CSS injected!");
