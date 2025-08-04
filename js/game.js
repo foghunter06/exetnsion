@@ -9387,7 +9387,7 @@ window.addEventListener("load", function () {
       function (p650) {
         v760 = p650;
         $.ajax({
-          url: "https://foghunter06.github.io/exetnsion/api/skins.jsossn",
+          url: "https://foghunter06.github.io/exetnsion/api/skins.json",
           method: "GET",
           dataType: "json",
           success: function (p651) {
