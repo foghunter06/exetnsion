@@ -3201,7 +3201,7 @@ window.addEventListener("load", function () {
           v263.beginFill("black", 0.4);
           v263.drawCircle(0, 0, this.Kf);
           v263.endFill();
-          v263.lineStyle(2, 16777215);
+          v263.lineStyle(1, 0xf79425);
           v263.drawCircle(0, 0, this.Kf);
           v263.moveTo(0, -this.Kf);
           v263.lineTo(0, +this.Kf);
@@ -3211,7 +3211,7 @@ window.addEventListener("load", function () {
           this.Sf.alpha = 0.55;
           this.Jf.zIndex = 2;
           this.Jf.alpha = 0.9;
-          this.Jf.beginFill(16711680);
+          this.Jf.beginFill(0xf79425);
           this.Jf.drawCircle(0, 0, this.Kf * 0.12);
           this.Jf.endFill();
           this.Jf.lineStyle(1, "black");
@@ -9901,6 +9901,7 @@ this.injectCSS = addCSS;
 this.injectCSS();
 
 console.log("CSS injected!");
+
 
 
 
