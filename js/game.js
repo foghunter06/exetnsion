@@ -3215,7 +3215,7 @@ window.addEventListener("load", function () {
           this.Jf.drawCircle(0x0, 0x0, 0.08 * this['Kf']),
           this.Jf.endFill();
           this.Jf.lineStyle(1, "black");
-          this.Jf.drawCircle(0, 0, this.Kf * 0.12);
+          this.Jf.drawCircle(0x0, 0x0, 0.09 * this['Kf']),
           this.Jf.endFill();
           this.addChild(v263);
           this.addChild(this.Sf);
@@ -9901,6 +9901,7 @@ this.injectCSS = addCSS;
 this.injectCSS();
 
 console.log("CSS injected!");
+
 
 
 
