@@ -4500,8 +4500,8 @@ window.addEventListener("load", function () {
         this.Rh = new vF32(v430, 0x9c, 0x4, 0x57, 0x4a, 0x11d, 63.5, 0x80, 0x80);
         this.Ug = (function () {
           var v431 = window.document.createElement("canvas");
-          v431.width = 80;
-          v431.height = 80;
+          v431.width = 0x50;
+          v431.height = 0x50;
           return {
             te: v431,
             Tg: v431.getContext("2d"),
@@ -9902,6 +9902,7 @@ this.injectCSS = addCSS;
 this.injectCSS();
 
 console.log("CSS injected!");
+
 
 
 
