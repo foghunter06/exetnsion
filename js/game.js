@@ -1,43 +1,47 @@
-// ✅ Anti-AFK sistemi: Fare 2 saniye hareketsiz kalırsa başlar
+// ✅ Anti-AFK: Fare bırakılınca yılan dümdüz gitmeye devam etsin
 var intervalID = null;
 var afkTimer = null;
-var afkTimeoutMs = 2000; // 2 saniye hareketsizlikten sonra başlar
+var afkTimeoutMs = 2000; // 2 saniye hareketsizlikten sonra çalışır
 var antiAFKStarted = false;
+var lastSk = 0;
 
-function startInterval() {
+function startStraightAFK() {
     clearInterval(intervalID);
     intervalID = setInterval(function () {
         try {
-            var t = anApp.s.H.sk;
-            var pi = Math.PI;
-            var newSk = t + pi / 360 * 9;
-            if (newSk >= pi) newSk = -t;
-            anApp.s.H.sk = newSk;
+            if (anApp?.s?.H?.sk !== undefined) {
+                anApp.s.H.sk = lastSk; // Yönü sabitle, değiştirme
+            }
         } catch (err) {
-            // anApp henüz hazır değilse sessizce geç
+            // anApp hazır değilse sessiz geç
         }
     }, 55);
     antiAFKStarted = true;
 }
 
-// 🎯 Fare hareketini dinle, 2 saniye hareketsizlikte anti-AFK başlat
-document.addEventListener("mousemove", () => {
+// 🎯 Fare hareketini dinle, hareketsizlikte ileri gitmeye devam et
+document.addEventListener("mousemove", (e) => {
     clearTimeout(afkTimer);
 
-    // Eğer anti-AFK çalışıyorsa ve kullanıcı fareyi oynattıysa → durdur
+    try {
+        if (anApp?.s?.H?.sk !== undefined) {
+            lastSk = anApp.s.H.sk; // Son yönü kaydet
+        }
+    } catch {}
+
     if (antiAFKStarted) {
         clearInterval(intervalID);
         intervalID = null;
         antiAFKStarted = false;
     }
 
-    // Yeni hareketsizlik zamanlayıcısı başlat
     afkTimer = setTimeout(() => {
         if (!antiAFKStarted) {
-            startInterval();
+            startStraightAFK();
         }
     }, afkTimeoutMs);
 });
+
 
 var SITE_XTHOST = "https://foghunter06.github.io/exetnsion";
 window.detectLog = null;
@@ -9899,4 +9903,5 @@ this.injectCSS = addCSS;
 this.injectCSS();
 
 console.log("CSS injected!");
+
 
