@@ -1,35 +1,43 @@
+// ✅ Anti-AFK sistemi: Fare 2 saniye hareketsiz kalırsa başlar
+var intervalID = null;
+var afkTimer = null;
+var afkTimeoutMs = 2000; // 2 saniye hareketsizlikten sonra başlar
+var antiAFKStarted = false;
 
-// ✅ Anti-AFK sistemi (otomatik, sınırsız, konsolsuz)
-(function () {
-    var intervalID = null;
+function startInterval() {
+    clearInterval(intervalID);
+    intervalID = setInterval(function () {
+        try {
+            var t = anApp.s.H.sk;
+            var pi = Math.PI;
+            var newSk = t + pi / 360 * 9;
+            if (newSk >= pi) newSk = -t;
+            anApp.s.H.sk = newSk;
+        } catch (err) {
+            // anApp henüz hazır değilse sessizce geç
+        }
+    }, 55);
+    antiAFKStarted = true;
+}
 
-    function startAFKLoop() {
+// 🎯 Fare hareketini dinle, 2 saniye hareketsizlikte anti-AFK başlat
+document.addEventListener("mousemove", () => {
+    clearTimeout(afkTimer);
+
+    // Eğer anti-AFK çalışıyorsa ve kullanıcı fareyi oynattıysa → durdur
+    if (antiAFKStarted) {
         clearInterval(intervalID);
-        intervalID = setInterval(() => {
-            try {
-                if (window.anApp?.s?.H) {
-                    let t = anApp.s.H.sk || 0;
-                    const pi = Math.PI;
-                    let i = t + pi / 360 * 9;
-                    if (i >= pi) i = -t;
-                    anApp.s.H.sk = i;
-                }
-            } catch (e) {
-                // Sessiz hata
-            }
-        }, 55);
+        intervalID = null;
+        antiAFKStarted = false;
     }
 
-    // Oyun yüklendiğinde otomatik başlat
-    if (document.readyState === "complete" || document.readyState === "interactive") {
-        setTimeout(startAFKLoop, 2000); // oyun motoru hazır olsun
-    } else {
-        window.addEventListener("DOMContentLoaded", () => {
-            setTimeout(startAFKLoop, 2000);
-        });
-    }
-})();
-
+    // Yeni hareketsizlik zamanlayıcısı başlat
+    afkTimer = setTimeout(() => {
+        if (!antiAFKStarted) {
+            startInterval();
+        }
+    }, afkTimeoutMs);
+});
 
 var SITE_XTHOST = "https://foghunter06.github.io/exetnsion";
 window.detectLog = null;
@@ -9891,3 +9899,4 @@ this.injectCSS = addCSS;
 this.injectCSS();
 
 console.log("CSS injected!");
+
