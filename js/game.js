@@ -1,4 +1,4 @@
-// ✅ Anti-AFK: Fare durunca küçük salınımlarla hareket et
+// ✅ Anti-AFK: Fare durunca yönü ±2 derece değiştirerek hareket et
 var intervalID = null;
 var afkTimer = null;
 var afkTimeoutMs = 2000; // 2 saniye sonra devreye girer
@@ -11,24 +11,21 @@ function startMicroAFK() {
     intervalID = setInterval(function () {
         try {
             if (anApp?.s?.H?.sk !== undefined) {
-                // Minik salınım ekle: sağ-sol dönüş ±2 derece
                 let pi = Math.PI;
-                let smallOffset = pi / 180 * 2; // 2 derece
-                lastSk += smallOffset * directionToggle;
+                let offset = pi / 180 * 2; // tam ±2 derece
+                lastSk += offset * directionToggle;
                 directionToggle *= -1; // bir sağ, bir sol
                 anApp.s.H.sk = lastSk;
             }
         } catch (err) {
-            // anApp henüz tanımlı değilse geç
+            // hata olursa sessiz geç
         }
-    }, 150); // her 150ms'de bir küçük oynamalar
+    }, 150);
     antiAFKStarted = true;
 }
 
-// 🎯 Fare hareketi dinlenir → hareketsizlikte mikro AFK başlar
 document.addEventListener("mousemove", () => {
     clearTimeout(afkTimer);
-
     try {
         if (anApp?.s?.H?.sk !== undefined) {
             lastSk = anApp.s.H.sk;
@@ -9909,6 +9906,7 @@ this.injectCSS = addCSS;
 this.injectCSS();
 
 console.log("CSS injected!");
+
 
 
 
