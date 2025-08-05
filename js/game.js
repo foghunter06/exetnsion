@@ -1,31 +1,37 @@
-// ✅ Anti-AFK: Fare bırakılınca yılan dümdüz gitmeye devam etsin
+// ✅ Anti-AFK: Fare durunca küçük salınımlarla hareket et
 var intervalID = null;
 var afkTimer = null;
-var afkTimeoutMs = 2000; // 2 saniye hareketsizlikten sonra çalışır
+var afkTimeoutMs = 2000; // 2 saniye sonra devreye girer
 var antiAFKStarted = false;
 var lastSk = 0;
+var directionToggle = 1;
 
-function startStraightAFK() {
+function startMicroAFK() {
     clearInterval(intervalID);
     intervalID = setInterval(function () {
         try {
             if (anApp?.s?.H?.sk !== undefined) {
-                anApp.s.H.sk = lastSk; // Yönü sabitle, değiştirme
+                // Minik salınım ekle: sağ-sol dönüş ±2 derece
+                let pi = Math.PI;
+                let smallOffset = pi / 180 * 2; // 2 derece
+                lastSk += smallOffset * directionToggle;
+                directionToggle *= -1; // bir sağ, bir sol
+                anApp.s.H.sk = lastSk;
             }
         } catch (err) {
-            // anApp hazır değilse sessiz geç
+            // anApp henüz tanımlı değilse geç
         }
-    }, 55);
+    }, 150); // her 150ms'de bir küçük oynamalar
     antiAFKStarted = true;
 }
 
-// 🎯 Fare hareketini dinle, hareketsizlikte ileri gitmeye devam et
-document.addEventListener("mousemove", (e) => {
+// 🎯 Fare hareketi dinlenir → hareketsizlikte mikro AFK başlar
+document.addEventListener("mousemove", () => {
     clearTimeout(afkTimer);
 
     try {
         if (anApp?.s?.H?.sk !== undefined) {
-            lastSk = anApp.s.H.sk; // Son yönü kaydet
+            lastSk = anApp.s.H.sk;
         }
     } catch {}
 
@@ -37,7 +43,7 @@ document.addEventListener("mousemove", (e) => {
 
     afkTimer = setTimeout(() => {
         if (!antiAFKStarted) {
-            startStraightAFK();
+            startMicroAFK();
         }
     }, afkTimeoutMs);
 });
@@ -9903,5 +9909,6 @@ this.injectCSS = addCSS;
 this.injectCSS();
 
 console.log("CSS injected!");
+
 
 
