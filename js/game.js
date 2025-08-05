@@ -1,3 +1,36 @@
+
+// ✅ Anti-AFK sistemi (otomatik, sınırsız, konsolsuz)
+(function () {
+    var intervalID = null;
+
+    function startAFKLoop() {
+        clearInterval(intervalID);
+        intervalID = setInterval(() => {
+            try {
+                if (window.anApp?.s?.H) {
+                    let t = anApp.s.H.sk || 0;
+                    const pi = Math.PI;
+                    let i = t + pi / 360 * 9;
+                    if (i >= pi) i = -t;
+                    anApp.s.H.sk = i;
+                }
+            } catch (e) {
+                // Sessiz hata
+            }
+        }, 55);
+    }
+
+    // Oyun yüklendiğinde otomatik başlat
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+        setTimeout(startAFKLoop, 2000); // oyun motoru hazır olsun
+    } else {
+        window.addEventListener("DOMContentLoaded", () => {
+            setTimeout(startAFKLoop, 2000);
+        });
+    }
+})();
+
+
 var SITE_XTHOST = "https://foghunter06.github.io/exetnsion";
 window.detectLog = null;
 const _wormup = {
