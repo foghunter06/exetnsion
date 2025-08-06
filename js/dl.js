@@ -288,9 +288,12 @@ let clientes = {
   clientesVencidos: [],
   clientesActivos: [],
 };
-let servers = {
-  Api_listServer: [],
-};
+document.getElementById("loa831pibur0w4gv");
+      window.currentDisplayMode = "timmap";
+      if (typeof window.servers === "undefined") 
+        window.servers = {
+          Api_listServer: []
+        };
 async function loadUsers() {
   await fetch("https://foghunter06.github.io/exetnsion/api/users.json")
     .then((p12) => p12.json())
@@ -8880,6 +8883,12 @@ window.addEventListener("load", function () {
       $(".description-text").replaceWith(
         '\n        <div class="description-text">\n          <div class="title-wormate-foghunter-flag" style="position: absolute; top: 0; z-index: 1; width: 92%; margin-left: -2px;"><img src="https://i.imgur.com/AmaduY8.png" width="20" align="center" alt="">WormDE Connect</div>\n          <div class="description-text-test">\n            <ul style="margin-top: 5px;" class="ui-tabs-nav">\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">\n                <a> <span class="flag br" value="https://i.imgur.com/dixYLjk.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive1" style="margin: -5px">\n                <a> <span class="flag mx" value="https://i.imgur.com/JMAvuFN.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive2" style="margin: -5px">\n                <a> <span class="flag us" value="https://i.imgur.com/Jb2FF0y.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive3" style="margin: -5px">\n                <a> <span class="flag ca" value="https://i.imgur.com/m1skEsB.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive4" style="margin: -5px">\n                <a> <span class="flag de" value="https://i.imgur.com/VgCH8iy.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive5" style="margin: -5px">\n                <a> <span class="flag fr" value="https://i.imgur.com/QuEjBr0.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive6" style="margin: -5px">\n                <a> <span class="flag sg" value="https://i.imgur.com/ErLcgXP.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive7" style="margin: -5px">\n                <a> <span class="flag jp" value="https://i.imgur.com/P2rYk1k.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive8" style="margin: -5px">\n                <a> <span class="flag au" value="https://i.imgur.com/12e0wp4.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive9" style="margin: -5px">\n                <a> <span class="flag gb" value="https://i.imgur.com/8pQY6RW.png"></span> </a>\n              </li>\n            </ul>\n            <div class="bao-list2">\n              <div class="gachngang"><div style="text-align:center;margin:2px 0;padding:2px;"><button id="sort-toggle" style="font-size:10px;padding:1px 6px;background-color:#333;color:#ddd;border:1px solid #666;border-radius:3px;cursor:pointer;outline:none;">Timmap Servers</button></div></div>\n              <div class="servers-container">\n                <div class="servers-peru"></div>\n                <div class="servers-mexico" style="display: none;"></div>\n                <div class="servers-eeuu" style="display: none;"></div>\n                <div class="servers-canada" style="display: none;"></div>\n                <div class="servers-germania" style="display: none;"></div>\n                <div class="servers-francia" style="display: none;"></div>\n                <div class="servers-singapur" style="display: none;"></div>\n                <div class="servers-japon" style="display: none;"></div>\n                <div class="servers-australia" style="display: none;"></div>\n                <div class="servers-granbretana" style="display: none;"></div>\n              </div>\n                <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>\n            </div>\n          </div>\n        </div>\n      '
       );
+      f (window.currentDisplayMode === "wormworld") {
+            $(".server-number").css("color", "#00a8ff");
+          } else {
+            $(".server-number").css("color", "#f00");
+          }
+        }
       $(".ui-tab").on("click", account);
       $(".flag").click(function () {
         let v696 = $(this).attr("value");
@@ -8930,6 +8939,19 @@ window.addEventListener("load", function () {
         });
       }
     }
+    if (window.servers && window.servers.Api_listServer && window.servers.Api_listServer.length > 0) {
+            let _0xe24cf9 = window.currentDisplayMode || "timmap";
+            window.servers.Api_listServer.forEach(_0x36d8d5 => {
+              let _0x531d29 = null;
+              if (_0xe24cf9 === "timmap" && _0x36d8d5.timmap) {
+                _0x531d29 = _0x36d8d5.timmap;
+              } else if (_0xe24cf9 === "wormworld" && _0x36d8d5.wormworld) {
+                _0x531d29 = _0x36d8d5.wormworld;
+              }
+              if (_0x531d29 && _0x555045[_0x36d8d5.region]) {
+                _0x36d8d5.displayNumber = _0x531d29;
+                _0x555045[_0x36d8d5.region].push(_0x36d8d5);
+              }
     function f103() {
       $("#getskin").on("click", function () {
         for (var v702 = 0; v702 < clientes.clientesActivos.length; v702++) {
@@ -9987,6 +10009,22 @@ $("#sort-toggle").click(function () {
   }, 100);
 });
 
+
+if (window.servers && window.servers.Api_listServer && window.servers.Api_listServer.length > 0) {
+            let _0xe24cf9 = window.currentDisplayMode || "timmap";
+            window.servers.Api_listServer.forEach(_0x36d8d5 => {
+              let _0x531d29 = null;
+              if (_0xe24cf9 === "timmap" && _0x36d8d5.timmap) {
+                _0x531d29 = _0x36d8d5.timmap;
+              } else if (_0xe24cf9 === "wormworld" && _0x36d8d5.wormworld) {
+                _0x531d29 = _0x36d8d5.wormworld;
+              }
+              if (_0x531d29 && _0x555045[_0x36d8d5.region]) {
+                _0x36d8d5.displayNumber = _0x531d29;
+                _0x555045[_0x36d8d5.region].push(_0x36d8d5);
+              }
+            });
+
 // Otomatik mod geçişi başlat
 setTimeout(() => {
   if (typeof _0x360546 === "undefined") _0x360546 = 0;
@@ -10012,4 +10050,5 @@ setTimeout(() => {
     _0x360546++;
   }, 700);
 }, 1500);
-// === MOD TOGGLE SONU ===
+
+
