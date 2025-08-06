@@ -8939,7 +8939,7 @@ window.addEventListener("load", function () {
         });
       }
     }
-    if (window.servers && window.servers.Api_listServer && window.servers.Api_listServer.length > 0) {
+window.servers && window.servers.Api_listServer && window.servers.Api_listServer.length > 0 {
             let _0xe24cf9 = window.currentDisplayMode || "timmap";
             window.servers.Api_listServer.forEach(_0x36d8d5 => {
               let _0x531d29 = null;
