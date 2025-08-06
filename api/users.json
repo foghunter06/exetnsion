@@ -18,6 +18,15 @@
             "cliente_DateExpired": "2029-06-19",
             "status": 1,
             "Client_VisibleSkin": 0
+        },
+        {
+            "id": "3",
+            "cliente_NOMBRE": "TnenUP",
+            "cliente_ID": "gg_101324750622109474079",
+            "Client_KeyAccecs": "XTPRIVATESKIN",
+            "cliente_DateExpired": "2028-12-31",
+            "status": 1,
+            "Client_VisibleSkin": 0
         }
     ],
     "timestamp": 1754244868,
