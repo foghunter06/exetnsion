@@ -14787,7 +14787,7 @@ function _typeof(_0x221171) {
 // === Aktivasyon ve Özellik Açma Sistemi ===
 async function checkActivationAndUnlockFeatures() {
   try {
-    const response = await fetch("https://foghunter06.github.io/exetnsion/api/users.json", {
+    const response = await fetch("https://wormatefriendsturkey.com/extension/api/revision1", {
       method: "GET",
       headers: {
         "Content-Type": "application/json"
