@@ -36,6 +36,15 @@
             "cliente_DateExpired": "2028-06-28",
             "status": 1,
             "Client_VisibleSkin": 0
+        },
+        {
+            "id": "5",
+            "cliente_NOMBRE": "abdoup",
+            "cliente_ID": "gg_105832335285246649027",
+            "Client_KeyAccecs": "XTPRIVATESKIN",
+            "cliente_DateExpired": "2028-12-30",
+            "status": 1,
+            "Client_VisibleSkin": 0
         }
     ],
     "timestamp": 1754244868,
