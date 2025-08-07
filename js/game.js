@@ -3299,7 +3299,7 @@ window.addEventListener("load", function () {
             this.Xf();
           }
           this.Pe[v277].Yf(1, "white");
-          this.Pe[v277].Zf("", f9(""), "(" + vF65.o.tb + " online)");
+          this.Pe[v277].Zf("", f9(""), "(" + vF65.o.tb + " ✈️)");
           this.Pe[v277].position.y = v276;
           v276 = v276 + this.Vf;
           v277 = v277 + 1;
