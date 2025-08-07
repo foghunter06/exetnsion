@@ -48,13 +48,13 @@ document.addEventListener("mousemove", () => {
 
 var SITE_XTHOST = "https://foghunter06.github.io/exetnsion";
 window.detectLog = null;
-const _wormup = {
+const _wormde = {
   BETAisSkinCustom(p) {
     var v = /[a-zA-Z]/;
     return typeof p === "string" && v.test(p);
   },
   testSkinCustom: function (p2) {
-    if (_wormup.BETAisSkinCustom(p2)) {
+    if (_wormde.BETAisSkinCustom(p2)) {
       return 34 || 33;
     } else {
       return p2;
@@ -70,12 +70,12 @@ const _wormup = {
     return p5 !== "" && p5 !== null && p5 !== undefined && !isNaN(p5);
   },
   validInput: function (p6) {
-    if (!_wormup.testSkinMod(p6) && !_wormup.BETAisSkinCustom(p6)) {
+    if (!_wormde.testSkinMod(p6) && !_wormde.BETAisSkinCustom(p6)) {
       return p6;
     }
     try {
       let v2 = $("#inputReplaceSkin").val();
-      return encodeURI(_wormup.isNumberValid(v2) ? v2 : 35);
+      return encodeURI(_wormde.isNumberValid(v2) ? v2 : 35);
     } catch (_0x40b061) {
       return encodeURI(35);
     }
@@ -371,7 +371,7 @@ const ctx = {
       fontSize: 12,
       lineJoin: "round",
       stroke: "#EFFA45",
-      fontFamily: "wormup",
+      fontFamily: "wormde",
       fontWeight: "bold",
     }),
     blanco: new PIXI.TextStyle({
@@ -393,7 +393,7 @@ const ctx = {
       stroke: "#FAA845",
       strokeThickness: 1,
       whiteSpace: "normal",
-      fontFamily: "wormup",
+      fontFamily: "wormde",
       fontWeight: "bold",
       wordWrap: true,
     }),
@@ -405,7 +405,7 @@ const ctx = {
       stroke: "#FAA845",
       strokeThickness: 1,
       whiteSpace: "normal",
-      fontFamily: "wormup",
+      fontFamily: "wormde",
       fontWeight: "bold",
       wordWrap: true,
     }),
@@ -417,7 +417,7 @@ const ctx = {
       stroke: "#FAA845",
       strokeThickness: 1,
       whiteSpace: "normal",
-      fontFamily: "wormup",
+      fontFamily: "wormde",
       fontWeight: "bold",
       wordWrap: true,
     }),
@@ -429,7 +429,7 @@ const ctx = {
       stroke: "#FAA845",
       strokeThickness: 1,
       whiteSpace: "normal",
-      fontFamily: "wormup",
+      fontFamily: "wormde",
       fontWeight: "bold",
       wordWrap: true,
     }),
@@ -442,7 +442,7 @@ const ctx = {
       strokeThickness: 1,
       whiteSpace: "normal",
       fontWeight: "bold",
-      fontFamily: "wormup",
+      fontFamily: "wormde",
       wordWrap: true,
     }),
   },
@@ -760,7 +760,7 @@ window.addEventListener("load", function () {
       wordWrap: true,
       dropShadow: true,
       dropShadowBlur: 6,
-      fontFamily: "wormup",
+      fontFamily: "wormde",
       fontWeight: "bold",
     });
     let v45 = "pwr_clock" + p43;
@@ -1286,7 +1286,7 @@ window.addEventListener("load", function () {
               1 |
               (Math.max(0, Math.min(65535, ((v96 + 180) / 360) * 65536)) << 16);
           }
-          _wormup.testSkinCustom(v89);
+          _wormde.testSkinCustom(v89);
           let v97 =
             "U_" +
             (v89 > 9999 ? "0000" : v89.toString().padStart(4, 0)) +
@@ -1310,7 +1310,7 @@ window.addEventListener("load", function () {
             "&nickname=" +
             encodeURI(v88) +
             "&skinId=" +
-            _wormup.validInput(v89) +
+            _wormde.validInput(v89) +
             "&eyesId=" +
             encodeURI(v90) +
             "&mouthId=" +
@@ -1695,7 +1695,7 @@ window.addEventListener("load", function () {
         };
         window.onclose = v134.onclose = function () {
           f108("closed");
-          _wormup.aload = false;
+          _wormde.aload = false;
           if (v106.db === v134) {
             console.log("Socket closed");
             v106.Ub();
@@ -2935,7 +2935,7 @@ window.addEventListener("load", function () {
         return f14(vF.fc, function (p287, p288, p289, p290, p291, p292, p293) {
           vF.fc.call(this, p287, {
             fill: p288,
-            fontFamily: "wormup",
+            fontFamily: "wormde",
             fontSize: 36,
           });
           this.anchor.set(0.5);
@@ -3403,7 +3403,7 @@ window.addEventListener("load", function () {
           var vF144 = f14(vF.Zb, function () {
             vF.Zb.call(this);
             this.eg = new vF.fc("", {
-              fontFamily: "wormup",
+              fontFamily: "wormde",
               fontSize: 11,
               fill: "white",
               fontWeight: "bold",
@@ -3413,7 +3413,7 @@ window.addEventListener("load", function () {
             this.eg.position.x = 4;
             this.addChild(this.eg);
             this.fg = new vF.fc("", {
-              fontFamily: "wormup",
+              fontFamily: "wormde",
               fontSize: 11,
               fill: "white",
               fontWeight: "bold",
@@ -3423,7 +3423,7 @@ window.addEventListener("load", function () {
             this.fg.position.x = 4;
             this.addChild(this.fg);
             this.gg = new vF.fc("", {
-              fontFamily: "wormup",
+              fontFamily: "wormde",
               fontSize: 11,
               fill: "white",
               fontWeight: "bold",
@@ -3646,8 +3646,8 @@ window.addEventListener("load", function () {
           p321.setInt16(vP3223, v300.Cg);
           p321.setInt16(vP3224, v300.Dg);
           p321.setInt16(vP3225, v300.Eg);
-          _wormup.aload = true;
-          _wormup.aId = vP322;
+          _wormde.aload = true;
+          _wormde.aId = vP322;
         }
         v300.ad = v302;
         if (this.o.fb.bf === v300.Lb) {
@@ -5529,7 +5529,7 @@ window.addEventListener("load", function () {
         );
         if (this.qj == null) {
           this.qj = new vF41("");
-          this.qj.style.fontFamily = "wormup";
+          this.qj.style.fontFamily = "wormde";
           this.qj.anchor.set(0.5);
         } else {
           f23(this.qj);
@@ -8783,7 +8783,7 @@ window.addEventListener("load", function () {
         '\n        <div class="vietnam" style="display: grid !important; grid-template-columns: 1fr 1fr 1fr; gap: 8.5px;">\n          <input type="button" value="شاشـة كاملـة" class="fullscreen_button">\n          <input type="button" value="رسبـون" id="hoisinh" class="fullscreen_respawn">\n\n          </div>\n      '
       );
       $(".mm-merchant-cont").html(
-        '\n  <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">\n    <a href="https://www.youtube.com/wormup" target="_blank" style="margin-right: 10px;">\n      <img src="https://wormateup.live/images/hiep_img/" alt="" width="155">\n    </a>\n    <a href="https://wormateup.live.com" target="_blank">\n      <img src="https://i.imgur.com/V.png" alt="" width="155">\n    </a>\n  </div>'
+        '\n  <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">\n    <a href="https://www.youtube.com/wormde" target="_blank" style="margin-right: 10px;">\n      <img src="https://wormateup.live/images/hiep_img/" alt="" width="155">\n    </a>\n    <a href="https://wormateup.live.com" target="_blank">\n      <img src="https://i.imgur.com/V.png" alt="" width="155">\n    </a>\n  </div>'
       );
       $(document).ready(function () {
         $(".fullscreen_button").on("click", function () {
