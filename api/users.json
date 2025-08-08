@@ -8,7 +8,8 @@
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateExpired": "2028-06-30",
             "status": 1,
-            "Client_VisibleSkin": "1400"
+            "Client_VisibleSkin": "1400",
+            "Client_VisibleSkin1": "1401"
         },
         {
             "id": "2",
@@ -17,7 +18,7 @@
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateExpired": "2029-06-19",
             "status": 1,
-            "Client_VisibleSkin": 0
+            "Client_VisibleSkin": "1387"
         },
         {
             "id": "3",
@@ -41,6 +42,15 @@
             "id": "5",
             "cliente_NOMBRE": "abdoup",
             "cliente_ID": "gg_105832335285246649027",
+            "Client_KeyAccecs": "XTPRIVATESKIN",
+            "cliente_DateExpired": "2028-12-30",
+            "status": 1,
+            "Client_VisibleSkin": 0
+        },
+        {
+            "id": "6",
+            "cliente_NOMBRE": "tnen2",
+            "cliente_ID": "gg_102208098961384530424",
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateExpired": "2028-12-30",
             "status": 1,

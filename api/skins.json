@@ -4441,6 +4441,702 @@
   },
   "skinArrayDict": [
     {
+        "id": 1387,
+        "guest": false,
+        "nonbuyable": 1,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_yt_01_8",
+            "skin_yt_01_7",
+            "skin_yt_01_6",
+            "skin_yt_01_5",
+            "skin_yt_01_4",
+            "skin_yt_01_3",
+            "skin_yt_01_2",
+            "skin_yt_01_1",
+            "skin_yt_01_0"
+        ],
+        "glow": [
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw"
+        ]
+    },
+    {
+        "id": 520,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_09_8",
+            "skin_wdenew_09_7",
+            "skin_wdenew_09_6",
+            "skin_wdenew_09_5",
+            "skin_wdenew_09_4",
+            "skin_wdenew_09_3",
+            "skin_wdenew_09_2",
+            "skin_wdenew_09_1",
+            "skin_wdenew_09_0"
+        ],
+        "glow": [
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white"
+        ]
+    },
+    {
+        "id": 519,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_08_8",
+            "skin_wdenew_08_7",
+            "skin_wdenew_08_6",
+            "skin_wdenew_08_5",
+            "skin_wdenew_08_4",
+            "skin_wdenew_08_3",
+            "skin_wdenew_08_2",
+            "skin_wdenew_08_1",
+            "skin_wdenew_08_0"
+        ],
+        "glow": [
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white"
+        ]
+    },
+    {
+        "id": 518,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_07_8",
+            "skin_wdenew_07_7",
+            "skin_wdenew_07_6",
+            "skin_wdenew_07_5",
+            "skin_wdenew_07_4",
+            "skin_wdenew_07_3",
+            "skin_wdenew_07_2",
+            "skin_wdenew_07_1",
+            "skin_wdenew_07_0"
+        ],
+        "glow": [
+            "a__red",
+            "a__red",
+            "a__red",
+            "a__red",
+            "a_white",
+            "a__red",
+            "a__red",
+            "a__red"
+        ]
+    },
+    {
+        "id": 518,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_06_8",
+            "skin_wdenew_06_7",
+            "skin_wdenew_06_6",
+            "skin_wdenew_06_5",
+            "skin_wdenew_06_4",
+            "skin_wdenew_06_3",
+            "skin_wdenew_06_2",
+            "skin_wdenew_06_1",
+            "skin_wdenew_06_0"
+        ],
+        "glow": [
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white"
+        ]
+    },
+    {
+        "id": 517,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_05_8",
+            "skin_wdenew_05_7",
+            "skin_wdenew_05_6",
+            "skin_wdenew_05_5",
+            "skin_wdenew_05_4",
+            "skin_wdenew_05_3",
+            "skin_wdenew_05_2",
+            "skin_wdenew_05_1",
+            "skin_wdenew_05_0"
+        ],
+        "glow": [
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white"
+        ]
+    },
+    {
+        "id": 516,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_04_8",
+            "skin_wdenew_04_7",
+            "skin_wdenew_04_6",
+            "skin_wdenew_04_5",
+            "skin_wdenew_04_4",
+            "skin_wdenew_04_3",
+            "skin_wdenew_04_2",
+            "skin_wdenew_04_1",
+            "skin_wdenew_04_0"
+        ],
+        "glow": [
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white"
+        ]
+    },
+    {
+        "id": 1401,
+        "guest": false,
+        "nonbuyable": 1,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_foghunter_02_8",
+            "skin_foghunter_02_7",
+            "skin_foghunter_02_6",
+            "skin_foghunter_02_5",
+            "skin_foghunter_02_4",
+            "skin_foghunter_02_3",
+            "skin_foghunter_02_2",
+            "skin_foghunter_02_1",
+            "skin_foghunter_02_0"
+        ],
+        "glow": [
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white"
+        ]
+    },
+    {
+        "id": 515,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_03_8",
+            "skin_wdenew_03_7",
+            "skin_wdenew_03_6",
+            "skin_wdenew_03_5",
+            "skin_wdenew_03_4",
+            "skin_wdenew_03_3",
+            "skin_wdenew_03_2",
+            "skin_wdenew_03_1",
+            "skin_wdenew_03_0"
+        ],
+        "glow": [
+            "a__card",
+            "a__card",
+            "a__card",
+            "a__card",
+            "a__card",
+            "a__card",
+            "a__card",
+            "a__card"
+        ]
+    },
+    {
+        "id": 514,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_02_8",
+            "skin_wdenew_02_7",
+            "skin_wdenew_02_6",
+            "skin_wdenew_02_5",
+            "skin_wdenew_02_4",
+            "skin_wdenew_02_3",
+            "skin_wdenew_02_2",
+            "skin_wdenew_02_1",
+            "skin_wdenew_02_0"
+        ],
+        "glow": [
+            "a_grass",
+            "a_grass",
+            "a_grass",
+            "a_grass",
+            "a_grass",
+            "a_grass",
+            "a_grass",
+            "a_grass"
+        ]
+    },
+    {
+        "id": 513,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_wdenew_01_8",
+            "skin_wdenew_01_7",
+            "skin_wdenew_01_6",
+            "skin_wdenew_01_5",
+            "skin_wdenew_01_4",
+            "skin_wdenew_01_3",
+            "skin_wdenew_01_2",
+            "skin_wdenew_01_1",
+            "skin_wdenew_01_0"
+        ],
+        "glow": [
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white",
+            "a_white"
+        ]
+    },
+    {
+        "id": 512,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_13_8",
+            "skin_zincir_13_7",
+            "skin_zincir_13_6",
+            "skin_zincir_13_5",
+            "skin_zincir_13_4",
+            "skin_zincir_13_3",
+            "skin_zincir_13_2",
+            "skin_zincir_13_1",
+            "skin_zincir_13_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 511,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_12_8",
+            "skin_zincir_12_7",
+            "skin_zincir_12_6",
+            "skin_zincir_12_5",
+            "skin_zincir_12_4",
+            "skin_zincir_12_3",
+            "skin_zincir_12_2",
+            "skin_zincir_12_1",
+            "skin_zincir_12_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 510,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_11_8",
+            "skin_zincir_11_7",
+            "skin_zincir_11_6",
+            "skin_zincir_11_5",
+            "skin_zincir_11_4",
+            "skin_zincir_11_3",
+            "skin_zincir_11_2",
+            "skin_zincir_11_1",
+            "skin_zincir_11_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 509,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_10_8",
+            "skin_zincir_10_7",
+            "skin_zincir_10_6",
+            "skin_zincir_10_5",
+            "skin_zincir_10_4",
+            "skin_zincir_10_3",
+            "skin_zincir_10_2",
+            "skin_zincir_10_1",
+            "skin_zincir_10_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 508,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_09_8",
+            "skin_zincir_09_7",
+            "skin_zincir_09_6",
+            "skin_zincir_09_5",
+            "skin_zincir_09_4",
+            "skin_zincir_09_3",
+            "skin_zincir_09_2",
+            "skin_zincir_09_1",
+            "skin_zincir_09_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 507,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_08_8",
+            "skin_zincir_08_7",
+            "skin_zincir_08_6",
+            "skin_zincir_08_5",
+            "skin_zincir_08_4",
+            "skin_zincir_08_3",
+            "skin_zincir_08_2",
+            "skin_zincir_08_1",
+            "skin_zincir_08_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 506,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_07_8",
+            "skin_zincir_07_7",
+            "skin_zincir_07_6",
+            "skin_zincir_07_5",
+            "skin_zincir_07_4",
+            "skin_zincir_07_3",
+            "skin_zincir_07_2",
+            "skin_zincir_07_1",
+            "skin_zincir_07_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 505,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_06_8",
+            "skin_zincir_06_7",
+            "skin_zincir_06_6",
+            "skin_zincir_06_5",
+            "skin_zincir_06_4",
+            "skin_zincir_06_3",
+            "skin_zincir_06_2",
+            "skin_zincir_06_1",
+            "skin_zincir_06_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 504,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_05_8",
+            "skin_zincir_05_7",
+            "skin_zincir_05_6",
+            "skin_zincir_05_5",
+            "skin_zincir_05_4",
+            "skin_zincir_05_3",
+            "skin_zincir_05_2",
+            "skin_zincir_05_1",
+            "skin_zincir_05_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 503,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_04_8",
+            "skin_zincir_04_7",
+            "skin_zincir_04_6",
+            "skin_zincir_04_5",
+            "skin_zincir_04_4",
+            "skin_zincir_04_3",
+            "skin_zincir_04_2",
+            "skin_zincir_04_1",
+            "skin_zincir_04_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 502,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_03_8",
+            "skin_zincir_03_7",
+            "skin_zincir_03_6",
+            "skin_zincir_03_5",
+            "skin_zincir_03_4",
+            "skin_zincir_03_3",
+            "skin_zincir_03_2",
+            "skin_zincir_03_1",
+            "skin_zincir_03_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 501,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_02_8",
+            "skin_zincir_02_7",
+            "skin_zincir_02_6",
+            "skin_zincir_02_5",
+            "skin_zincir_02_4",
+            "skin_zincir_02_3",
+            "skin_zincir_02_2",
+            "skin_zincir_02_1",
+            "skin_zincir_02_0"
+        ],
+        "glow": [
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans",
+            "a_trans"
+        ]
+    },
+    {
+        "id": 500,
+        "guest": false,
+        "nonbuyable": false,
+        "price": 0,
+        "priceBefore": 0,
+        "prime": "c__yllw",
+        "base": [
+            "skin_zincir_01_8",
+            "skin_zincir_01_7",
+            "skin_zincir_01_6",
+            "skin_zincir_01_5",
+            "skin_zincir_01_4",
+            "skin_zincir_01_3",
+            "skin_zincir_01_2",
+            "skin_zincir_01_1",
+            "skin_zincir_01_0"
+        ],
+        "glow": [
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw",
+            "a__yllw"
+        ]
+    },
+    {
         "id": 1400,
         "guest": false,
         "nonbuyable": 1,
@@ -4503,15 +5199,54 @@
     }
   ],
   "skinGroupArrayDict": [
+        {
+      "isCustom": true,
+      "id": "WormDE Connect",
+      "name": {
+        "en": "WormDE Connect"
+      },
+      "list": [
+        "513",
+        "514",
+        "515",
+        "516",
+        "517",
+        "518",
+        "519",
+        "520"
+      ]
+    },
+    {
+      "isCustom": true,
+      "id": "Chain",
+      "name": {
+        "en": "Chain"
+      },
+      "list": [
+        "500",
+        "501",
+        "502",
+        "503",
+        "504",
+        "505",
+        "506",
+        "507",
+        "508",
+        "509",
+        "510",
+        "511",
+        "512"
+      ]
+    },
     {
       "isCustom": true,
       "id": "Foghunter",
-      "img": "fog.png",
       "name": {
         "en": "FogHUnter"
       },
       "list": [
-        "1400"
+        "1400",
+        "1401"
       ]
     },
     {
@@ -4526,6 +5261,102 @@
     }
   ],
   "textureDict": {
+    "skin_yt_01": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/JY92moK.png"
+    },
+    "skin_wdenew_09": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/Kfc3P2u.png"
+    },
+    "skin_wdenew_08": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/uPS0mFS.png"
+    },
+    "skin_wdenew_07": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/7vfnSP5.png"
+    },
+    "skin_wdenew_06": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/HgTbDWJ.png"
+    },
+    "skin_wdenew_05": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/0um6mZs.png"
+    },
+    "skin_wdenew_04": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/wXVkxvp.png"
+    },
+    "skin_foghunter_02": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/fspHcCg.png"
+    },
+    "skin_wdenew_03": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/UsAoH5I.png"
+    },
+    "skin_wdenew_02": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/4xuqGLB.png"
+    },
+    "skin_wdenew_01": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/QpIoMZu.png"
+    },
+    "skin_zincir_13": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/k186JZd.png"
+    },
+    "skin_zincir_12": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/UTpquhu.png"
+    },
+    "skin_zincir_11": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/IlWqBBO.png"
+    },
+    "skin_zincir_10": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/rEwHeuZ.png"
+    },
+    "skin_zincir_09": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/P6vct0x.png"
+    },
+    "skin_zincir_08": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/FKt51Zf.png"
+    },
+    "skin_zincir_07": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/GuJw9Op.png"
+    },
+    "skin_zincir_06": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/CYT1cP7.png"
+    },
+    "skin_zincir_05": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/8UfAUI9.png"
+    },
+    "skin_zincir_04": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/EdbwX26.png"
+    },
+    "skin_zincir_03": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/tUyPAfF.png"
+    },
+    "skin_zincir_02": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/NODUWmn.png"
+    },
+    "skin_zincir_01": {
+        "custom": true,
+        "relativePath": "https://i.imgur.com/uw9cDEg.png"
+    },
     "skin_foghunter_01": {
         "custom": true,
         "relativePath": "https://i.imgur.com/5w0yJpK.png"
@@ -5548,6 +6379,1518 @@
     "c_a_tm2_B": "18d2f2"
   },
   "regionDict": {
+    "skin_yt_01_0": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_yt_01_1": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_yt_01_2": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_yt_01_3": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_yt_01_4": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_yt_01_5": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_yt_01_6": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_yt_01_7": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_yt_01_8": {
+        "texture": "skin_yt_01",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_09_0": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_09_1": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_09_2": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_09_3": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_09_4": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_09_5": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_09_6": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_09_7": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_09_8": {
+        "texture": "skin_wdenew_09",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_08_0": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_08_1": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_08_2": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_08_3": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_08_4": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_08_5": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_08_6": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_08_7": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_08_8": {
+        "texture": "skin_wdenew_08",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_07_0": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_07_1": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_07_2": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_07_3": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_07_4": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_07_5": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_07_6": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_07_7": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_07_8": {
+        "texture": "skin_wdenew_07",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_06_0": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_06_1": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_06_2": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_06_3": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_06_4": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_06_5": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_06_6": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_06_7": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_06_8": {
+        "texture": "skin_wdenew_06",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_05_0": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_05_1": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_05_2": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_05_3": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_05_4": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_05_5": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_05_6": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_05_7": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_05_8": {
+        "texture": "skin_wdenew_05",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_04_0": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_04_1": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_04_2": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_04_3": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_04_4": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_04_5": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_04_6": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_04_7": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_04_8": {
+        "texture": "skin_wdenew_04",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_foghunter_02_0": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_foghunter_02_1": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_foghunter_02_2": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_foghunter_02_3": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_foghunter_02_4": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_foghunter_02_5": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_foghunter_02_6": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_foghunter_02_7": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_foghunter_02_8": {
+        "texture": "skin_foghunter_02",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_03_0": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_03_1": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_03_2": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_03_3": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_03_4": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_03_5": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_03_6": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_03_7": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_03_8": {
+        "texture": "skin_wdenew_03",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_02_0": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_02_1": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_02_2": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_02_3": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_02_4": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_02_5": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_02_6": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_02_7": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_02_8": {
+        "texture": "skin_wdenew_02",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_wdenew_01_0": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_wdenew_01_1": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_wdenew_01_2": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_wdenew_01_3": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_wdenew_01_4": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_wdenew_01_5": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_wdenew_01_6": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_wdenew_01_7": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_wdenew_01_8": {
+        "texture": "skin_wdenew_01",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_13_0": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_13_1": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_13_2": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_13_3": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_13_4": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_13_5": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_13_6": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_13_7": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_13_8": {
+        "texture": "skin_zincir_13",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_12_0": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_12_1": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_12_2": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_12_3": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_12_4": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_12_5": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_12_6": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_12_7": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_12_8": {
+        "texture": "skin_zincir_12",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_11_0": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_11_1": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_11_2": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_11_3": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_11_4": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_11_5": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_11_6": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_11_7": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_11_8": {
+        "texture": "skin_zincir_11",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_10_0": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_10_1": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_10_2": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_10_3": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_10_4": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_10_5": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_10_6": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_10_7": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_10_8": {
+        "texture": "skin_zincir_10",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_09_0": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_09_1": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_09_2": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_09_3": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_09_4": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_09_5": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_09_6": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_09_7": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_09_8": {
+        "texture": "skin_zincir_09",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_08_0": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_08_1": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_08_2": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_08_3": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_08_4": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_08_5": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_08_6": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_08_7": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_08_8": {
+        "texture": "skin_zincir_08",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_07_0": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_07_1": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_07_2": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_07_3": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_07_4": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_07_5": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_07_6": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_07_7": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_07_8": {
+        "texture": "skin_zincir_07",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_06_0": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_06_1": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_06_2": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_06_3": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_06_4": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_06_5": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_06_6": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_06_7": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_06_8": {
+        "texture": "skin_zincir_06",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_05_0": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_05_1": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_05_2": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_05_3": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_05_4": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_05_5": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_05_6": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_05_7": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_05_8": {
+        "texture": "skin_zincir_05",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_04_0": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_04_1": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_04_2": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_04_3": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_04_4": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_04_5": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_04_6": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_04_7": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_04_8": {
+        "texture": "skin_zincir_04",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_03_0": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_03_1": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_03_2": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_03_3": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_03_4": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_03_5": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_03_6": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_03_7": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_03_8": {
+        "texture": "skin_zincir_03",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_02_0": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_02_1": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_02_2": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_02_3": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_02_4": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_02_5": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_02_6": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_02_7": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_02_8": {
+        "texture": "skin_zincir_02",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
+    "skin_zincir_01_0": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 0,
+        "y": 0
+    },
+    "skin_zincir_01_1": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 174,
+        "y": 0
+    },
+    "skin_zincir_01_2": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 348,
+        "y": 0
+    },
+    "skin_zincir_01_3": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 522,
+        "y": 0
+    },
+    "skin_zincir_01_4": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 696,
+        "y": 0
+    },
+    "skin_zincir_01_5": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 870,
+        "y": 0
+    },
+    "skin_zincir_01_6": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 1044,
+        "y": 0
+    },
+    "skin_zincir_01_7": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 1218,
+        "y": 0
+    },
+    "skin_zincir_01_8": {
+        "texture": "skin_zincir_01",
+        "h": 170,
+        "w": 174,
+        "x": 1396,
+        "y": 0
+    },
     "skin_foghunter_01_0": {
         "texture": "skin_foghunter_01",
         "h": 170,
