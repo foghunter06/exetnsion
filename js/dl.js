@@ -8717,7 +8717,7 @@ window.addEventListener("load", function () {
     v690 +=
       '<img class="worm_1" src="https://i.imgur.com/iekrYYm.png"><span class="Worm_cerca"></span>';
     v690 +=
-    '</div>\n    </div><div style="display:none" id="zoom-container"><div id="zoom-out">-</div><div id="zoom-in">+</div><div class="worm_3">x.<span id="zoom-percentage"></span>';
+    '<div style="display:none" id="zoom-container"><div id="zoom-out">-</div><div id="zoom-in">+</div><div class="worm_3">x.<span id="zoom-percentage"></span>';
     $("#game-view").append(v690);
     function f100(p637) {
       if (theoKzObjects.PropertyManager) {
